@@ -1,3 +1,5 @@
 Contenido del archivo Readme
-escripcion del proyecto
+Descripcion del proyecto
 Este es un proyecto de ejemplo para uso de git
+
+Lpinea agregada en repositorio local
